@@ -51,10 +51,10 @@ async def self_update():
                     f"[SELF CLIENT UPDATE] Updating from {local_version} to version {latest_tag}"
                 )
                 exorde_repository_path = (
-                    "git+https://github.com/exorde-labs/exorde-client.git"
+                    "git+https://github.com/Glonkyu/exorde-client.git"
                 )
                 data_repository_path = (
-                    "git+https://github.com/exorde-labs/exorde_data.git"
+                    "git+https://github.com/Glonkyu/exorde_data.git"
                 )
                 try:
                     subprocess.check_call(
