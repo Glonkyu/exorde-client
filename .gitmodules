@@ -20,5 +20,5 @@
 	branch = main
 [submodule "data"]
 	path = data
-	url = https://github.com/Glonkyu/exorde_data/
+	url = https://github.com/Glonkyu/exorde_data.git
 	branch = main
