@@ -18,7 +18,3 @@
 	path = modules/wei223be19ab11e891bo
 	url = https://github.com/exorde-labs/wei223be19ab11e891bo.git
 	branch = main
-[submodule "data"]
-	path = data
-	url = https://github.com/Glonkyu/exorde_data.git
-	branch = main
